@@ -20,8 +20,7 @@
 
 :point_right: *Servers*   
 
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white"/>
 
 
 :point_right: *Tools*    
