@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BBE1F9&height=200&section=header&text=Haneul%20Lee&fontSize=70&fontColor=F5F9FB&fontAlign=50&fontAlignY=40&stroke=A1A4A5&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BBE1F9&height=250&section=header&text=Haneul%20Lee&fontSize=70&fontColor=F5F9FB&fontAlign=50&fontAlignY=40&stroke=A1A4A5&animation=fadeIn" />
 <h3> :wave: Introduce</h3>
 
 안녕하세요 백엔드를 공부하고 있는 이하늘입니다! <br/>꾸준히 배우고 발전해 나가는 개발자가 되려고 노력하고 있습니다.
