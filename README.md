@@ -31,7 +31,8 @@
 
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaneul&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaneul&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaneul&layout=compact)
 
 
 <h3>:white_check_mark: Contact me</h3>
